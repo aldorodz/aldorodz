@@ -1,5 +1,5 @@
-# Aldo Rodríguez - Software Engineer
-### I am a software project leader, full-stack developer and entrepreneur.
+# Hi, I'm Aldo Rodríguez :wave:
+### I am a software engineer, software project leader, full-stack developer and entrepreneur.
 
 <!--
 **aldorodz/aldorodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

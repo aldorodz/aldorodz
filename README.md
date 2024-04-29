@@ -23,6 +23,8 @@
 </div>
 <br />
 
+![Aldo's GitHub stats](https://readme-stats.alternet.io/?username=aldorodz&show_icons=true&theme=transparent)
+
 <!--
 **aldorodz/aldorodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

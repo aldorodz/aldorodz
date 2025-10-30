@@ -23,6 +23,8 @@
 </div>
 <br />
 
+![](https://komarev.com/ghpvc/?username=aldodevs)
+
 ![Aldo's GitHub stats](https://readme-stats.alternet.io/?username=aldorodz&show_icons=true&theme=transparent)
 
 <!--
